@@ -32,7 +32,7 @@ Ansiboot menyelesaikan masalah tersebut dengan pendekatan :
 ## Installation
 ### Clone Repository
 ```bash
-git clone https://github.com/alberttsegl/Ansiboot
+git clone https://github.com/alberttsegl/ansiboot
 cd ansiboot
 ```
 
